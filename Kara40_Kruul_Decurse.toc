@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: Kara40_Kruul_Decurse
+## Author: Kintsugi
+## Version: 1.0
+
+Kara40_Kruul_Decurse.lua
